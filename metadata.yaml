@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17499#A-Jolly-by-Josh
 gutenberg_issued: '2006-01-13'
 gutenberg_type: Text
 identifiers:
