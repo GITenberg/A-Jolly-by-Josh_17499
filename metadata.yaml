@@ -1,0 +1,19 @@
+_repo: A-Jolly-by-Josh_17499
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2006-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Young men -- Conduct of life'
+title: A Jolly by Josh
+url: http://www.gutenberg.org/ebooks/17499
